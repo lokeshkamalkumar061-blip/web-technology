@@ -1,0 +1,13 @@
+deploy through git
+1. create a git account  
+2. create repository
+3. upload a file/ create a file
+4. commit
+5. select settings
+6. choose pages 
+7. select branch as root
+8. crate a domin as per repository
+9. your serveris published 
+ note:
+10. main html page always name it as index.html
+11. style.css file
